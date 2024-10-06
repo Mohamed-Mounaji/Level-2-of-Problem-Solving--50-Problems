@@ -1,0 +1,3 @@
+﻿  problem_20.cpp
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelTwoOfProblemSolving\problem_20\problem_20.cpp(25): warning C4715: 'GetRandomChar': not all control paths return a value
+  problem_20.vcxproj -> C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelTwoOfProblemSolving\problem_20\x64\Debug\problem_20.exe

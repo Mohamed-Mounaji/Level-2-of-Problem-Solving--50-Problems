@@ -1,0 +1,3 @@
+﻿  problem_2.cpp
+C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelTwoOfProblemSolving\problem_2\problem_2.cpp(18,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  problem_2.vcxproj -> C:\Users\lenovo\Desktop\ProgrmmingAdvicesFiles\LevelTwoOfProblemSolving\problem_2\x64\Debug\problem_2.exe
